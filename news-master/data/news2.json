@@ -1,0 +1,24 @@
+[
+	{
+    "title": "Increíble tienda que cuelga de un acantilado, la nueva atracción turística de China",
+    "imgmid": "tienda.png",
+    "imgbig": "escalada.jpg",
+    "text": "El día del 25/04/2018 se inauguró una de las tiendas mas curiosas del mundo. La tienda se encuentra sobre un acantilado del Parque Geológico Nacional de Shiniuzhai, a 100 metros del suelo.",
+  	"time": "a"
+  },
+  {
+    "title": "Encarcelan a hombre que intentó hackear una prisión para liberar a su amigo",
+    "imgmid": "hacks.png",
+    "imgbig": "code.jpg",
+    "text": "Un hombre de Michigan, se enfrenta a una sentencia de 7 años y 3 meses de prisión por tratar de hackear el sistema informático de una cárcel y alterar los registros de la prisión para que su amigo fuera liberado antes de tiempo.",
+  	"time": "a"
+  },
+  {
+    "title": "La NASA quiere enviar abejas robóticas a Marte",
+    "imgmid": "abejas.png",
+    "imgbig": "marte.jpg",
+    "text": "El Robot Curiosity de la NASA ha hecho un buen trabajo al explorar el planeta rojo desde la superficie, sin embargo, ahora la NASA planea enviar robots para volar sobre los cielos. Un equipo de japoneses y estadounidenses trabajan para enviar un grupo de robots voladores, inspirados en las abejas, llamados “Marsbees”",
+  	"time": "a"
+  }
+  ]
+]

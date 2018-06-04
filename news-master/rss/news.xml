@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>BorjaNews</title>
+  <link>file:///C:/Users/Jordi/Desktop/FP/news-master/index.html</link>
+  <description>Pagina de noticias para el instituto IES Francesc de Borja Moll</description>
+  <item>
+    <title>“Llamas azules”, el último fenómeno natural que se observa tras erupción del volcán Kilauea"</title>
+    <text>Las llamas azules es el último fenómeno natural que se observa en la erupción del volcán Kilauea. Las llamas se pueden ver saliendo de las grietas del pavimento en el vecindario de Leilani Estates. Se trata de metano producido por la vegetación muerta en descomposición.</text>
+  </item>
+  <item>
+    <title>Padres demandan a su hijo para desalojarlo de la casa</title>
+    <description>Unos padres originarios de Camillus (Nueva York) recurrieron a los tribunales para sacar a su hijo de la casa, ya que el hombre de 30 años no contribuye a los gastos de la casa, ni ayuda con los quehaceres.</description>
+  </item>
+  <item>
+    <title>El curioso ‘secreto de los 6 dedos’ de las obras de arte de Rafael</title>
+    <description>Hoy hablaremos de unos datos curiosos del arte. En algunas pinturas renacentistas hallamos algunas curiosidades. Por ejemplo, en las obras de Rafael (1483-1520) encontramos dos pinturas con detalles muy extraños. Se trata de personajes con seis dedos. Algunos afirman que fueron errores del pintor, mientras que otros sugieren una explicación más probable. ¿Por qué Rafaelo pintó a algunos de sus personas con seis dedos?</description>
+  </item>
+  <item>
+    <title>Increíble tienda que cuelga de un acantilado, la nueva atracción turística de China</title>
+    <description>El día del 25/04/2018 se inauguró una de las tiendas mas curiosas del mundo. La tienda se encuentra sobre un acantilado del Parque Geológico Nacional de Shiniuzhai, a 100 metros del suelo.</description>
+  </item>
+  <item>
+    <title>Encarcelan a hombre que intentó hackear una prisión para liberar a su amigo</title>
+    <description>Un hombre de Michigan, se enfrenta a una sentencia de 7 años y 3 meses de prisión por tratar de hackear el sistema informático de una cárcel y alterar los registros de la prisión para que su amigo fuera liberado antes de tiempo.</description>
+  </item>
+  <item>
+    <title>La NASA quiere enviar abejas robóticas a Marte</title>
+    <description>El Robot Curiosity de la NASA ha hecho un buen trabajo al explorar el planeta rojo desde la superficie, sin embargo, ahora la NASA planea enviar robots para volar sobre los cielos. Un equipo de japoneses y estadounidenses trabajan para enviar un grupo de robots voladores, inspirados en las abejas, llamados “Marsbees”</description>
+  </item>
+</channel>
+
+</rss>

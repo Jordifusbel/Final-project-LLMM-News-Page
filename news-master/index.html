@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="http://zenithgames.blogspot.com.es/favicon.ico" rel="icon" type="image/x-icon">
+  <title>Final Project LLMM</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <link rel="stylesheet" href="css/news.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="js/news.js"></script>
+  <link rel="alternate" type="application/rss+xml" title="newsRss" href="rss/news.xml">
+</head>
+<body>
+
+<div id="title" class="jumbotron text-center"><h1><u>BorjaNEWS</u></h1>
+    <div id="subtitle" class="alert">
+    <p>Las noticias más Borja.</p>
+    </div>
+</div>
+
+<div id="news" class="container-fluid">
+  <img id="bannerPhone" src=img/bannerPhone.jpg class="img-responsive">
+</div>
+
+<ul id='out'>
+</ul>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-4"><br>
+            <p class="g"><span class="glyphicon glyphicon-bitcoin"></span></p>
+            <p id="nsocios">Como va el</p>
+            <p id="nclubes">BORJACOIN?</p>       
+        </div>
+        <div class="col-sm-4"><br>
+            <p class="g"><span class="glyphicon glyphicon-heart"></span></p>
+            <p>Descubre las últimas</p>
+            <p><a href url ="http://www.iesfbmoll.org/">novedades</a>!</p>
+            <button type="button" class="btn-lg btn-info" data-toggle="modal" data-target="#info"> información </button>
+        </div>
+    </div>    
+    <br>
+    <div class="row">
+        <div class="col"><br>
+            <h1><u>Las noticias:</u></h1>
+        </div>
+    </div>
+</div>
+
+<div id="news" class="border container-fluid">
+  <img id="banner" src=img/banner_vertical.jpg class="img-responsive right-block">
+  <a href="news1.html"><img id="imghorizontal" src=img/cityBg.jpg class="img-responsive center-block"></a>
+  <div id="newstext" class="">
+  <h2><b>Palma y donde es mejor estudiar:</b></h2>
+  <p>Que a estas alturas de la vida aún no se sepa cuál es el mejor instituto de la ciudad es un poco lamentable, y por eso he decidido colgar esta noticia. Ha sido demostrado cientificamente,
+  y eso lo saben <u>un 23% de las personas</u>, que el IES Francesc de Borja Moll es el mejor centro estudiantil de la ciudad.</p>
+  </div>
+</div>
+
+<br>
+
+<div id="news" class="container-fluid">
+  <img id="banner" src=img/banner_vertical.jpg class="img-responsive right-block">
+  <a href="news2.html"><img id="imghorizontal" src=img/nerf.jpg class="img-responsive center-block"></a>
+  <div id="newstext" class="">
+  <h2><b>Cuales son las mejores pistolas nerf?</b></h2>
+  <p>Como podemos ver en su último video, el usuario <b>XxFalconNerfKickerxX</b> nos da su opinión sobre el último modelo de pistola que la famosa compañia nerf ha sacado al mercado</p>
+  </div>
+  <img id="imgvertical" class="img-responsive" src=img/AdriP.jpg>
+</div>
+
+<br>
+
+<div id="news" class="container-fluid">
+  <img id="banner" src=img/banner_vertical.jpg class="img-responsive right-block">
+  <img id="imghorizontal" src=img/BfA.jpg class="img-responsive center-block">
+  <div id="newstext" class="">
+  <h2><b>¿Cuál es la siguiente expansión del wow?</b></h2>
+  <p>Pocas noticias son tan importantes para la actualidad del instituto como cuál será la siguiente expansión de World of Warcraft, y aqui esta vuestro portal de noticias preferido para ayudaros en dicha
+  tesitura. A mediados de agosto saldrá en todos los paises la última expansión del WoW, que empieza con la perpetua chispa de conflicto entre la Horda y <del>unos mataos</del> la Alianza y la unión de nuevos aliados en ambos bandos</p>
+  </div>
+</div>
+
+<br>
+
+<div id="expander" class="container-fluid">
+<p>Para más noticias</p>
+<button id="expanderButton">haz click</button>
+</div>
+
+<div id="info" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">A que curso vas?</h4>
+      </div>
+      <div class="modal-body">
+          <select class="form-control" id="cursos">
+              <option selected value="0">DAW Dual</option>
+              <option value="0">1ESO</option>
+              <option value="0">2ESO</option>
+              <option value="0">3ESO</option>
+              <option value="0">4ESO</option>
+              <option value="0">1BATXILLERAT</option>
+              <option value="0">2BATXILLERAT</option>
+              <option value="0">IMATGE PERSONAL</option>
+              <option value="0">SANITAT</option>
+              <option value="0">COMERÇ I MÀRKETING</option>
+          </select>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn-lg btn-info" id="verinfo"> ver información </button>
+      </div>
+    </div>
+
+  </div>
+</div>
+<footer class="footer"> 
+    <div class="container"> 
+        <ul class="footer-links"> 
+            <li><a href url ="https://www.facebook.com/pages/Ies-Francesc-de-Borja-Moll/102078106500752">Facebook</li> 
+            <li><a href url ="https://twitter.com/Razgut09">Contacto</li>
+            <li><a href url ="http://aulavirtual.caib.es/c07006238/">Web Clases</li>  
+        </ul> 
+    </div> 
+</footer>
+
+</body>
+</html>
